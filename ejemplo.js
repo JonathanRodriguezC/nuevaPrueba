@@ -1,3 +1,6 @@
 function SaludaR() {
 
 }
+function Despedirse() {
+
+}
